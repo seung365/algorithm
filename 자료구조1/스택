@@ -1,0 +1,54 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+
+int stack[10000];
+
+
+int push(){
+
+
+
+
+}
+
+
+
+int main()
+{
+
+  int num1;
+
+  scanf("%d",&num1);
+
+  while(int i=0;i<num1;i++)
+  {
+    char *str;
+
+    scanf("%s",str);
+    
+
+
+
+
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
