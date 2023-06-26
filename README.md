@@ -1,3 +1,3 @@
 # algorithm
 
-#BAEKJOON 문제 기반
+BAEKJOON 문제 기반
